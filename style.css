@@ -25,13 +25,28 @@
 }
 
 
-
 .duck{
     margin: 10px;
     float: left;
     width: calc(100% / 7 - 20px);
 }
 
+.duck-row-down{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.duck-down{
+    margin: 10px;
+    float: left;
+    width: calc(100% / 7 - 20px);
+}
+
 .duck img{
+    width: 100%;
+}
+
+.duck-down img{
     width: 100%;
 }
