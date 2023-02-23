@@ -23,3 +23,13 @@
 #title:hover{
     color: white;
 }
+
+.duck{
+    margin: 10px;
+    float: left;
+    width: 20%;
+}
+
+.duck img{
+    width: 100%;
+}
